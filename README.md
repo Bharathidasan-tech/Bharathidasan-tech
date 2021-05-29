@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Bharathidasan, Java Developer
+I'm Bharathidasan, Full-stack Developer
 </p>
 
 <h1 align='center'><i>Keep Learning!</i></h1>
