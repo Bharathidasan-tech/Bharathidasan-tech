@@ -1,9 +1,9 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! :wave: I'm Bharathidasan</h1>
 <p align='center'>
-I'm Bharathidasan, Full-stack Developer
+Software Developer
 </p>
 
-<h1 align='center'><i>Still I'm Keep Learning!</i></h1>
+
 
  ![visitors]( https://visitor-badge.glitch.me/badge?page_id=Bharathidasan-tech.Bharathidasan-tech )
  
