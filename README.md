@@ -5,7 +5,7 @@ Software Developer
 
 
 
- ![visitors]( ![](https://komarev.com/ghpvc/?username=Bharathidasan-tech&color=dc143c))
+ ![visitors]( https://komarev.com/ghpvc/?username=your-github-username&color=blue)
  
  - 📄 [About Me] [https://bharathidasan-tech.github.io/](https://bharathidasan-tech.github.io/)
 
