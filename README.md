@@ -5,7 +5,7 @@ Software Developer
 
 
 
- ![visitors]( https://visitor-badge.glitch.me/badge?page_id=Bharathidasan-tech.Bharathidasan-tech )
+ ![visitors]( [https://visitor-badge.glitch.me/badge?page_id=Bharathidasan-tech.Bharathidasan-tech](https://komarev.com/ghpvc/?username=Bharathidasan-tech&label=Profile%20views&color=0e75b6&style=flat) )
  
  - 📄 [About Me] [https://bharathidasan-tech.github.io/](https://bharathidasan-tech.github.io/)
 
