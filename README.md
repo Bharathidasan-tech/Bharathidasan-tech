@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave: I'm Bharathidasan</h1>
 <p align='center'>
-Software Developer
+Software Engineer
 </p>
 
 
